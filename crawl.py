@@ -15,10 +15,7 @@ link_kategori = [
     'hearing-aids','lainnya'
 ]
 
-# link_kategori = [
-#     'makanan-dan-minuman'
-# ]
-
+# yg belum berhasil di scrape
 # alergi, demam, makanan, hiper, 
 
 for nama_kategori in link_kategori:
