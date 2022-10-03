@@ -12,9 +12,9 @@ Pengembangan Sistem temu kembali informasi yang memberikan rekomendasi obat berd
 
 ## Source Code/Google Collab
 
-### Tugas 1 :
+### Tugas 1 : -
 
-### Tugas 2 :
+### Tugas 2 : -
 
 ### Tugas 3 : crawl.py
 
