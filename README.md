@@ -23,3 +23,5 @@ Pengembangan Sistem temu kembali informasi yang memberikan rekomendasi obat berd
 ### Tugas 5 : https://colab.research.google.com/drive/1LLpyk1KC3retW3YzhQMabFoTOVaYRGPG?usp=sharing
 
 ### Tugas 6 : https://colab.research.google.com/drive/1SvJFmNtXgyIoTxMF-z4VA0Z6hd9kuTIx?usp=sharing
+
+### Tugas 8 : https://colab.research.google.com/drive/1-hC3LDkF1oVQd_QCgd7LveIvqB7TeRtE?usp=sharing
